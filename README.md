@@ -1,15 +1,10 @@
 🖐️ ASL Vision - Real-Time Sign Language Recognition
-https://img.shields.io/badge/license-MIT-blue.svg
-
-https://img.shields.io/badge/python-3.8+-blue.svg
-
-https://img.shields.io/badge/OpenCV-4.x-green.svg
-
-https://img.shields.io/badge/PyTorch-1.x-red.svg
-
-https://img.shields.io/badge/MediaPipe-0.10+-orange.svg
-
-https://img.shields.io/badge/coverage-85%2525-brightgreen.svg
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.x-red.svg)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-orange.svg)
+![Coverage](https://img.shields.io/badge/coverage-85%25-brightgreen.svg)
 
 A Real-Time American Sign Language (ASL) Recognition System Using MediaPipe Hand Landmarks and PyTorch Neural Networks
 
